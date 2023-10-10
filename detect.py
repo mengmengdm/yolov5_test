@@ -144,6 +144,7 @@ def detect(save_img=False):
         print(f"Results saved to {save_dir}{s}")
 
     print(f'Done. ({time.time() - t0:.3f}s)')
+    print("test a change")
 
 
 if __name__ == '__main__':
