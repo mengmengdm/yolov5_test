@@ -146,6 +146,7 @@ def detect(save_img=False):
     print(f'Done. ({time.time() - t0:.3f}s)')
     print("test a change")
     print('another change')
+    print('change on idea')
 
 
 if __name__ == '__main__':
